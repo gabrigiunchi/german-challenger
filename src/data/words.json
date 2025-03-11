@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "german": "der Hund",
+      "english": "dog",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "die Katze",
+      "english": "cat",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "das Haus",
+      "english": "house",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "der Baum",
+      "english": "tree",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "das Buch",
+      "english": "book",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "die Wissenschaft",
+      "english": "science",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "der Führerschein",
+      "english": "driver's license",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Gesellschaft",
+      "english": "society",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "der Unterschied",
+      "english": "difference",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Entwicklung",
+      "english": "development",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Wahrscheinlichkeit",
+      "english": "probability",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Geschwindigkeit",
+      "english": "velocity",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Verantwortung",
+      "english": "responsibility",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Gleichberechtigung",
+      "english": "equality",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Nachhaltigkeit",
+      "english": "sustainability",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "gehen",
+      "english": "to go",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "essen",
+      "english": "to eat",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "schlafen",
+      "english": "to sleep",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "trinken",
+      "english": "to drink",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "spielen",
+      "english": "to play",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "verstehen",
+      "english": "to understand",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vergessen",
+      "english": "to forget",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erklären",
+      "english": "to explain",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verbinden",
+      "english": "to connect",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "entwickeln",
+      "english": "to develop",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beeinflussen",
+      "english": "to influence",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "verwirklichen",
+      "english": "to realize",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "berücksichtigen",
+      "english": "to consider",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "gewährleisten",
+      "english": "to ensure",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "beabsichtigen",
+      "english": "to intend",
+      "category": "verb",
+      "difficulty": "hard"
+    }
+  ]
+}

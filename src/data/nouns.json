@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "german": "der Hund",
+      "english": "dog",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "die Katze",
+      "english": "cat",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "das Haus",
+      "english": "house",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "der Baum",
+      "english": "tree",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "das Buch",
+      "english": "book",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "die Wissenschaft",
+      "english": "science",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "der Führerschein",
+      "english": "driver's license",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Gesellschaft",
+      "english": "society",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "der Unterschied",
+      "english": "difference",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Entwicklung",
+      "english": "development",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Wahrscheinlichkeit",
+      "english": "probability",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Geschwindigkeit",
+      "english": "velocity",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Verantwortung",
+      "english": "responsibility",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Gleichberechtigung",
+      "english": "equality",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Nachhaltigkeit",
+      "english": "sustainability",
+      "category": "noun",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "words": [
     {
-      "german": "gehen",
-      "english": "to go",
+      "german": "schlafen",
+      "english": "to sleep",
       "category": "verb",
       "difficulty": "easy"
     },
@@ -13,14 +13,110 @@
       "difficulty": "easy"
     },
     {
-      "german": "schlafen",
-      "english": "to sleep",
+      "german": "trinken",
+      "english": "to drink",
       "category": "verb",
       "difficulty": "easy"
     },
     {
-      "german": "trinken",
-      "english": "to drink",
+      "german": "gehen",
+      "english": "to go",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "fahren",
+      "english": "to drive",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "laufen",
+      "english": "to run",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "sprechen",
+      "english": "to speak",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "hören",
+      "english": "to hear",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "sehen",
+      "english": "to see",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "lesen",
+      "english": "to read",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "schreiben",
+      "english": "to write",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "nehmen",
+      "english": "to take",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "bringen",
+      "english": "to bring",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "kaufen",
+      "english": "to buy",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "verkaufen",
+      "english": "to sell",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "machen",
+      "english": "to do/make",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "arbeiten",
+      "english": "to work",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "lernen",
+      "english": "to learn",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "studieren",
+      "english": "to study",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "helfen",
+      "english": "to help",
       "category": "verb",
       "difficulty": "easy"
     },
@@ -31,64 +127,118 @@
       "difficulty": "easy"
     },
     {
-      "german": "verstehen",
-      "english": "to understand",
+      "german": "schwimmen",
+      "english": "to swim",
       "category": "verb",
-      "difficulty": "medium"
+      "difficulty": "easy"
+    },
+    {
+      "german": "tanzen",
+      "english": "to dance",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "wohnen",
+      "english": "to live (reside)",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "leben",
+      "english": "to live",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "warten",
+      "english": "to wait",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "öffnen",
+      "english": "to open",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "schließen",
+      "english": "to close",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "bekommen",
+      "english": "to receive",
+      "category": "verb",
+      "difficulty": "easy"
     },
     {
       "german": "vergessen",
       "english": "to forget",
       "category": "verb",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "erklären",
-      "english": "to explain",
+      "german": "singen",
+      "english": "to sing",
       "category": "verb",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "verbinden",
-      "english": "to connect",
+      "german": "denken",
+      "english": "to think",
       "category": "verb",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "entwickeln",
-      "english": "to develop",
+      "german": "wissen",
+      "english": "to know",
       "category": "verb",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "beeinflussen",
-      "english": "to influence",
+      "german": "fragen",
+      "english": "to ask",
       "category": "verb",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "verwirklichen",
-      "english": "to realize",
+      "german": "antworten",
+      "english": "to answer",
       "category": "verb",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "berücksichtigen",
-      "english": "to consider",
+      "german": "stehen",
+      "english": "to stand",
       "category": "verb",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "gewährleisten",
-      "english": "to ensure",
+      "german": "sitzen",
+      "english": "to sit",
       "category": "verb",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "beabsichtigen",
-      "english": "to intend",
+      "german": "liegen",
+      "english": "to lie (down)",
       "category": "verb",
-      "difficulty": "hard"
+      "difficulty": "easy"
+    },
+    {
+      "german": "ziehen",
+      "english": "to pull",
+      "category": "verb",
+      "difficulty": "easy"
+    },
+    {
+      "german": "drücken",
+      "english": "to push",
+      "category": "verb",
+      "difficulty": "easy"
     }
   ]
 }

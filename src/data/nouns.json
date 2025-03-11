@@ -1,94 +1,292 @@
 {
   "words": [
     {
-      "german": "der Hund",
-      "english": "dog",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "die Katze",
-      "english": "cat",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "das Haus",
+      "german": "Haus",
       "english": "house",
       "category": "noun",
       "difficulty": "easy"
     },
     {
-      "german": "der Baum",
+      "german": "Auto",
+      "english": "car",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Baum",
       "english": "tree",
       "category": "noun",
       "difficulty": "easy"
     },
     {
-      "german": "das Buch",
+      "german": "Tisch",
+      "english": "table",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Stuhl",
+      "english": "chair",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Buch",
       "english": "book",
       "category": "noun",
       "difficulty": "easy"
     },
     {
-      "german": "die Wissenschaft",
-      "english": "science",
+      "german": "Tür",
+      "english": "door",
       "category": "noun",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "der Führerschein",
-      "english": "driver's license",
+      "german": "Fenster",
+      "english": "window",
       "category": "noun",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "die Gesellschaft",
-      "english": "society",
+      "german": "Hund",
+      "english": "dog",
       "category": "noun",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "der Unterschied",
-      "english": "difference",
+      "german": "Katze",
+      "english": "cat",
       "category": "noun",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "die Entwicklung",
-      "english": "development",
+      "german": "Blume",
+      "english": "flower",
       "category": "noun",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
-      "german": "die Wahrscheinlichkeit",
-      "english": "probability",
+      "german": "Wasser",
+      "english": "water",
       "category": "noun",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "die Geschwindigkeit",
-      "english": "velocity",
+      "german": "Feuer",
+      "english": "fire",
       "category": "noun",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "die Verantwortung",
-      "english": "responsibility",
+      "german": "Himmel",
+      "english": "sky",
       "category": "noun",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "die Gleichberechtigung",
-      "english": "equality",
+      "german": "Sonne",
+      "english": "sun",
       "category": "noun",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "german": "die Nachhaltigkeit",
-      "english": "sustainability",
+      "german": "Mond",
+      "english": "moon",
       "category": "noun",
-      "difficulty": "hard"
+      "difficulty": "easy"
+    },
+    {
+      "german": "Stern",
+      "english": "star",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Fluss",
+      "english": "river",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Berg",
+      "english": "mountain",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Hand",
+      "english": "hand",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Fuß",
+      "english": "foot",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Kopf",
+      "english": "head",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Auge",
+      "english": "eye",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Mund",
+      "english": "mouth",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Nase",
+      "english": "nose",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Ohr",
+      "english": "ear",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Zunge",
+      "english": "tongue",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Herz",
+      "english": "heart",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Blut",
+      "english": "blood",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Zahn",
+      "english": "tooth",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Mensch",
+      "english": "human",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Kind",
+      "english": "child",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Frau",
+      "english": "woman",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Mann",
+      "english": "man",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Freund",
+      "english": "friend",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Familie",
+      "english": "family",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Arzt",
+      "english": "doctor",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Lehrer",
+      "english": "teacher",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Schule",
+      "english": "school",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Universität",
+      "english": "university",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Stadt",
+      "english": "city",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Dorf",
+      "english": "village",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Land",
+      "english": "country",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Welt",
+      "english": "world",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Zeit",
+      "english": "time",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Tag",
+      "english": "day",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Nacht",
+      "english": "night",
+      "category": "noun",
+      "difficulty": "easy"
+    },
+    {
+      "german": "Jahr",
+      "english": "year",
+      "category": "noun",
+      "difficulty": "easy"
     }
   ]
 }

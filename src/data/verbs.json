@@ -593,6 +593,228 @@
       "english": "to agree/approve",
       "category": "verb",
       "difficulty": "hard"
+    },
+    {
+      "german": "beantragen",
+      "english": "to apply for",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ermöglichen",
+      "english": "to enable/make possible",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "unterstützen",
+      "english": "to support",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vereinbaren",
+      "english": "to agree upon/arrange",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bestätigen",
+      "english": "to confirm",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erfordern",
+      "english": "to require",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ausdrücken",
+      "english": "to express",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "befürchten",
+      "english": "to fear",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ermitteln",
+      "english": "to investigate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beeinflussen",
+      "english": "to influence",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "anpassen",
+      "english": "to adapt",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bewerten",
+      "english": "to evaluate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "abschließen",
+      "english": "to complete/finish",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beobachten",
+      "english": "to observe",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "fördern",
+      "english": "to promote",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "herausfordern",
+      "english": "to challenge",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "kritisieren",
+      "english": "to criticize",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "löschen",
+      "english": "to delete/erase",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "motivieren",
+      "english": "to motivate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "realisieren",
+      "english": "to realize",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sichern",
+      "english": "to secure",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "überprüfen",
+      "english": "to check/review",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "veröffentlichen",
+      "english": "to publish",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vorbereiten",
+      "english": "to prepare",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "wahrnehmen",
+      "english": "to perceive",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zweifeln",
+      "english": "to doubt",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "anbieten",
+      "english": "to offer",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "begründen",
+      "english": "to justify",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erkunden",
+      "english": "to explore",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "integrieren",
+      "english": "to integrate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "kommunizieren",
+      "english": "to communicate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "nachfragen",
+      "english": "to inquire",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "reduzieren",
+      "english": "to reduce",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vergleichen",
+      "english": "to compare",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zulassen",
+      "english": "to allow/permit",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zusammenarbeiten",
+      "english": "to collaborate",
+      "category": "verb",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zuweisen",
+      "english": "to assign",
+      "category": "verb",
+      "difficulty": "medium"
     }
   ]
 }

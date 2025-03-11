@@ -815,6 +815,240 @@
       "english": "to assign",
       "category": "verb",
       "difficulty": "medium"
+    },
+    {
+      "german": "abverlangen",
+      "english": "to demand from",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "aneignen",
+      "english": "to acquire (knowledge)",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "auseinandersetzen",
+      "english": "to engage critically with",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "behelligen",
+      "english": "to bother/annoy",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "bekräftigen",
+      "english": "to reaffirm",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "berufen",
+      "english": "to appoint/summon",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "beschwichtigen",
+      "english": "to appease",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "bewerkstelligen",
+      "english": "to accomplish",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "billigen",
+      "english": "to approve",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "darlegen",
+      "english": "to explain/elucidate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "entbehren",
+      "english": "to lack/do without",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "enteignen",
+      "english": "to expropriate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "entsenden",
+      "english": "to dispatch/send out",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "festsetzen",
+      "english": "to determine/set",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "florieren",
+      "english": "to flourish",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "geheimhalten",
+      "english": "to keep secret",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "geltend machen",
+      "english": "to assert/enforce",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "herabsetzen",
+      "english": "to degrade/lower",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "initiieren",
+      "english": "to initiate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "kapitulieren",
+      "english": "to capitulate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "kontern",
+      "english": "to counter",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "maßregeln",
+      "english": "to reprimand",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "nachsagen",
+      "english": "to allege",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "niederschlagen",
+      "english": "to suppress/quell",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "offenbaren",
+      "english": "to reveal",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "plädieren",
+      "english": "to plead",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "proklamieren",
+      "english": "to proclaim",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "redundant sein",
+      "english": "to be redundant",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "resümieren",
+      "english": "to summarize",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "revidieren",
+      "english": "to revise",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "rügen",
+      "english": "to reprimand",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "stagnieren",
+      "english": "to stagnate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "tilgen",
+      "english": "to erase/pay off (debt)",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "übervorteilen",
+      "english": "to take advantage of",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "veranschlagen",
+      "english": "to estimate/calculate",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "verblüffen",
+      "english": "to astonish",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "verdrängen",
+      "english": "to suppress/repress",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "verhöhnen",
+      "english": "to mock",
+      "category": "verb",
+      "difficulty": "hard"
+    },
+    {
+      "german": "verstimmen",
+      "english": "to upset/displease",
+      "category": "verb",
+      "difficulty": "hard"
     }
   ]
 }

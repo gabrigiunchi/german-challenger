@@ -287,6 +287,354 @@
       "english": "year",
       "category": "noun",
       "difficulty": "easy"
+    },
+    {
+      "german": "Abenteuer",
+      "english": "adventure",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Absicht",
+      "english": "intention",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Anforderung",
+      "english": "requirement",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Anlass",
+      "english": "occasion",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Anstrengung",
+      "english": "effort",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Aufgabe",
+      "english": "task",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Ausdruck",
+      "english": "expression",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Aussicht",
+      "english": "prospect/view",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Bedarf",
+      "english": "need/demand",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Beitrag",
+      "english": "contribution",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Besonderheit",
+      "english": "peculiarity",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Bestätigung",
+      "english": "confirmation",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Beteiligung",
+      "english": "participation",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Beweis",
+      "english": "proof",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Einfluss",
+      "english": "influence",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Einsicht",
+      "english": "insight",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Erlebnis",
+      "english": "experience",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Erleichterung",
+      "english": "relief",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Erwartung",
+      "english": "expectation",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Fähigkeit",
+      "english": "ability",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Gelegenheit",
+      "english": "opportunity",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Herausforderung",
+      "english": "challenge",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Hoffnung",
+      "english": "hope",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Kritik",
+      "english": "criticism",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Lösung",
+      "english": "solution",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Möglichkeit",
+      "english": "possibility",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Nachteil",
+      "english": "disadvantage",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Reaktion",
+      "english": "reaction",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Schwierigkeit",
+      "english": "difficulty",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Verantwortung",
+      "english": "responsibility",
+      "category": "noun",
+      "difficulty": "medium"
+    },
+    {
+      "german": "Abwägung",
+      "english": "consideration/weighing",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Anpassungsfähigkeit",
+      "english": "adaptability",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Aufgeschlossenheit",
+      "english": "open-mindedness",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Auseinandersetzung",
+      "english": "dispute/conflict",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Begeisterungsfähigkeit",
+      "english": "enthusiasm",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Beharrlichkeit",
+      "english": "perseverance",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Beständigkeit",
+      "english": "consistency",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Bewältigung",
+      "english": "coping/mastery",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Denkansatz",
+      "english": "approach to thinking",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Einfühlungsvermögen",
+      "english": "empathy",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Entscheidungsfreudigkeit",
+      "english": "decisiveness",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Erkenntnisgewinn",
+      "english": "gain of insight",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Gedankengang",
+      "english": "train of thought",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Gerechtigkeitssinn",
+      "english": "sense of justice",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Herausforderungsbewusstsein",
+      "english": "challenge awareness",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Integritätsbewusstsein",
+      "english": "awareness of integrity",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Kommunikationsbereitschaft",
+      "english": "willingness to communicate",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Kompromissbereitschaft",
+      "english": "willingness to compromise",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Lösungsorientierung",
+      "english": "solution orientation",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Nachhaltigkeitsbewusstsein",
+      "english": "sustainability awareness",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Reflexionsvermögen",
+      "english": "capacity for reflection",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Selbstständigkeit",
+      "english": "independence",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Umsetzungsfähigkeit",
+      "english": "ability to implement",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Verantwortungsbewusstsein",
+      "english": "sense of responsibility",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Verhandlungsgeschick",
+      "english": "negotiation skills",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Voraussicht",
+      "english": "foresight",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Wertschätzung",
+      "english": "appreciation",
+      "category": "noun",
+      "difficulty": "hard"
+    },
+    {
+      "german": "Zuverlässigkeit",
+      "english": "reliability",
+      "category": "noun",
+      "difficulty": "hard"
     }
   ]
 }

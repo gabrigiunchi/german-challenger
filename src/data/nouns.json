@@ -1,639 +1,183 @@
 {
   "words": [
     {
-      "german": "Haus",
-      "english": "house",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Auto",
-      "english": "car",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Baum",
-      "english": "tree",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Tisch",
-      "english": "table",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Stuhl",
-      "english": "chair",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Buch",
-      "english": "book",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Tür",
-      "english": "door",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Fenster",
-      "english": "window",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Hund",
-      "english": "dog",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Katze",
-      "english": "cat",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Blume",
-      "english": "flower",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Wasser",
-      "english": "water",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Feuer",
-      "english": "fire",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Himmel",
-      "english": "sky",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Sonne",
-      "english": "sun",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Mond",
-      "english": "moon",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Stern",
-      "english": "star",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Fluss",
-      "english": "river",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Berg",
-      "english": "mountain",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Hand",
-      "english": "hand",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Fuß",
-      "english": "foot",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Kopf",
-      "english": "head",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Auge",
-      "english": "eye",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Mund",
-      "english": "mouth",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Nase",
-      "english": "nose",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Ohr",
-      "english": "ear",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Zunge",
-      "english": "tongue",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Herz",
-      "english": "heart",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Blut",
-      "english": "blood",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Zahn",
-      "english": "tooth",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Mensch",
-      "english": "human",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Kind",
-      "english": "child",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Frau",
-      "english": "woman",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Mann",
-      "english": "man",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Freund",
-      "english": "friend",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Familie",
-      "english": "family",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Arzt",
-      "english": "doctor",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Lehrer",
-      "english": "teacher",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Schule",
-      "english": "school",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Universität",
-      "english": "university",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Stadt",
-      "english": "city",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Dorf",
-      "english": "village",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Land",
-      "english": "country",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Welt",
-      "english": "world",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Zeit",
-      "english": "time",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Tag",
-      "english": "day",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Nacht",
-      "english": "night",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Jahr",
-      "english": "year",
-      "category": "noun",
-      "difficulty": "easy"
-    },
-    {
-      "german": "Abenteuer",
-      "english": "adventure",
-      "category": "noun",
+      "german": "die Beute",
+      "english": "prey",
       "difficulty": "medium"
     },
     {
-      "german": "Absicht",
-      "english": "intention",
-      "category": "noun",
+      "german": "das Raubtier",
+      "english": "predator",
       "difficulty": "medium"
     },
     {
-      "german": "Anforderung",
-      "english": "requirement",
-      "category": "noun",
+      "german": "der Lebensraum",
+      "english": "habitat",
       "difficulty": "medium"
     },
     {
-      "german": "Anlass",
-      "english": "occasion",
-      "category": "noun",
+      "german": "die Überreste",
+      "english": "remains",
       "difficulty": "medium"
     },
     {
-      "german": "Anstrengung",
-      "english": "effort",
-      "category": "noun",
+      "german": "fern",
+      "english": "remote",
       "difficulty": "medium"
     },
     {
-      "german": "Aufgabe",
-      "english": "task",
-      "category": "noun",
+      "german": "böse",
+      "english": "evil",
       "difficulty": "medium"
     },
     {
-      "german": "Ausdruck",
-      "english": "expression",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Aussicht",
-      "english": "prospect/view",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Bedarf",
-      "english": "need/demand",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Beitrag",
-      "english": "contribution",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Besonderheit",
-      "english": "peculiarity",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Bestätigung",
-      "english": "confirmation",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Beteiligung",
-      "english": "participation",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Beweis",
-      "english": "proof",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Einfluss",
-      "english": "influence",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Einsicht",
-      "english": "insight",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Erlebnis",
-      "english": "experience",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Erleichterung",
-      "english": "relief",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Erwartung",
-      "english": "expectation",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Fähigkeit",
-      "english": "ability",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Gelegenheit",
-      "english": "opportunity",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Herausforderung",
-      "english": "challenge",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Hoffnung",
-      "english": "hope",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Kritik",
-      "english": "criticism",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Lösung",
-      "english": "solution",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Möglichkeit",
-      "english": "possibility",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Nachteil",
-      "english": "disadvantage",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Reaktion",
-      "english": "reaction",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Schwierigkeit",
-      "english": "difficulty",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Verantwortung",
-      "english": "responsibility",
-      "category": "noun",
-      "difficulty": "medium"
-    },
-    {
-      "german": "Abwägung",
-      "english": "consideration/weighing",
-      "category": "noun",
+      "german": "der Zwiespalt",
+      "english": "inner conflict",
       "difficulty": "hard"
     },
     {
-      "german": "Anpassungsfähigkeit",
-      "english": "adaptability",
-      "category": "noun",
+      "german": "die Befangenheit",
+      "english": "bias, self-consciousness",
       "difficulty": "hard"
     },
     {
-      "german": "Aufgeschlossenheit",
-      "english": "open-mindedness",
-      "category": "noun",
+      "german": "die Raffinesse",
+      "english": "sophistication, cunning",
       "difficulty": "hard"
     },
     {
-      "german": "Auseinandersetzung",
-      "english": "dispute/conflict",
-      "category": "noun",
+      "german": "die Verworrenheit",
+      "english": "confusion, entanglement",
       "difficulty": "hard"
     },
     {
-      "german": "Begeisterungsfähigkeit",
-      "english": "enthusiasm",
-      "category": "noun",
+      "german": "der Argwohn",
+      "english": "suspicion",
       "difficulty": "hard"
     },
     {
-      "german": "Beharrlichkeit",
-      "english": "perseverance",
-      "category": "noun",
+      "german": "die Unzulänglichkeit",
+      "english": "shortcoming, inadequacy",
       "difficulty": "hard"
     },
     {
-      "german": "Beständigkeit",
-      "english": "consistency",
-      "category": "noun",
+      "german": "die Abgeschiedenheit",
+      "english": "seclusion, isolation",
       "difficulty": "hard"
     },
     {
-      "german": "Bewältigung",
-      "english": "coping/mastery",
-      "category": "noun",
+      "german": "die Entbehrung",
+      "english": "privation, hardship",
       "difficulty": "hard"
     },
     {
-      "german": "Denkansatz",
-      "english": "approach to thinking",
-      "category": "noun",
+      "german": "die Gewissenhaftigkeit",
+      "english": "conscientiousness",
       "difficulty": "hard"
     },
     {
-      "german": "Einfühlungsvermögen",
-      "english": "empathy",
-      "category": "noun",
+      "german": "der Hochmut",
+      "english": "arrogance, haughtiness",
       "difficulty": "hard"
     },
     {
-      "german": "Entscheidungsfreudigkeit",
-      "english": "decisiveness",
-      "category": "noun",
+      "german": "der Makel",
+      "english": "blemish, flaw",
       "difficulty": "hard"
     },
     {
-      "german": "Erkenntnisgewinn",
-      "english": "gain of insight",
-      "category": "noun",
+      "german": "die Heimtücke",
+      "english": "treachery, insidiousness",
       "difficulty": "hard"
     },
     {
-      "german": "Gedankengang",
-      "english": "train of thought",
-      "category": "noun",
+      "german": "die Verstörtheit",
+      "english": "bewilderment, dismay",
       "difficulty": "hard"
     },
     {
-      "german": "Gerechtigkeitssinn",
-      "english": "sense of justice",
-      "category": "noun",
+      "german": "die Zerknirschung",
+      "english": "remorse, contrition",
       "difficulty": "hard"
     },
     {
-      "german": "Herausforderungsbewusstsein",
-      "english": "challenge awareness",
-      "category": "noun",
+      "german": "die Fügung",
+      "english": "providence, coincidence",
       "difficulty": "hard"
     },
     {
-      "german": "Integritätsbewusstsein",
-      "english": "awareness of integrity",
-      "category": "noun",
+      "german": "die Bredouille",
+      "english": "predicament (colloquial)",
       "difficulty": "hard"
     },
     {
-      "german": "Kommunikationsbereitschaft",
-      "english": "willingness to communicate",
-      "category": "noun",
+      "german": "die Arglist",
+      "english": "deceit, guile",
       "difficulty": "hard"
     },
     {
-      "german": "Kompromissbereitschaft",
-      "english": "willingness to compromise",
-      "category": "noun",
+      "german": "überdrüssig",
+      "english": "weary, fed up with",
       "difficulty": "hard"
     },
     {
-      "german": "Lösungsorientierung",
-      "english": "solution orientation",
-      "category": "noun",
+      "german": "verworren",
+      "english": "confused, tangled",
       "difficulty": "hard"
     },
     {
-      "german": "Nachhaltigkeitsbewusstsein",
-      "english": "sustainability awareness",
-      "category": "noun",
+      "german": "verdrießlich",
+      "english": "sullen, morose",
       "difficulty": "hard"
     },
     {
-      "german": "Reflexionsvermögen",
-      "english": "capacity for reflection",
-      "category": "noun",
+      "german": "ungezügelt",
+      "english": "unrestrained, rampant",
       "difficulty": "hard"
     },
     {
-      "german": "Selbstständigkeit",
-      "english": "independence",
-      "category": "noun",
+      "german": "schroff",
+      "english": "abrupt, harsh",
       "difficulty": "hard"
     },
     {
-      "german": "Umsetzungsfähigkeit",
-      "english": "ability to implement",
-      "category": "noun",
+      "german": "tückisch",
+      "english": "treacherous, insidious",
       "difficulty": "hard"
     },
     {
-      "german": "Verantwortungsbewusstsein",
-      "english": "sense of responsibility",
-      "category": "noun",
+      "german": "argwöhnisch",
+      "english": "suspicious, distrustful",
       "difficulty": "hard"
     },
     {
-      "german": "Verhandlungsgeschick",
-      "english": "negotiation skills",
-      "category": "noun",
+      "german": "weitschweifig",
+      "english": "long-winded, verbose",
       "difficulty": "hard"
     },
     {
-      "german": "Voraussicht",
-      "english": "foresight",
-      "category": "noun",
+      "german": "abgründig",
+      "english": "profound, unfathomable",
       "difficulty": "hard"
     },
     {
-      "german": "Wertschätzung",
-      "english": "appreciation",
-      "category": "noun",
+      "german": "unverhohlen",
+      "english": "unconcealed, blatant",
       "difficulty": "hard"
     },
     {
-      "german": "Zuverlässigkeit",
-      "english": "reliability",
-      "category": "noun",
+      "german": "standhaft",
+      "english": "steadfast, resilient",
+      "difficulty": "hard"
+    },
+    {
+      "german": "unerschwinglich",
+      "english": "prohibitively expensive",
+      "difficulty": "hard"
+    },
+    {
+      "german": "schneidig",
+      "english": "dashing, spirited",
       "difficulty": "hard"
     }
   ]

@@ -1,1053 +1,183 @@
 {
   "words": [
     {
-      "german": "schlafen",
-      "english": "to sleep",
-      "category": "verb",
-      "difficulty": "easy"
+      "german": "kehren",
+      "english": "return",
+      "difficulty": "mediujm"
     },
     {
-      "german": "essen",
-      "english": "to eat",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "trinken",
-      "english": "to drink",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "gehen",
-      "english": "to go",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "fahren",
-      "english": "to drive",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "laufen",
-      "english": "to run",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "sprechen",
-      "english": "to speak",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "hören",
-      "english": "to hear",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "sehen",
-      "english": "to see",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "lesen",
-      "english": "to read",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "schreiben",
-      "english": "to write",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "nehmen",
-      "english": "to take",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "bringen",
-      "english": "to bring",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "kaufen",
-      "english": "to buy",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "verkaufen",
-      "english": "to sell",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "machen",
-      "english": "to do/make",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "arbeiten",
-      "english": "to work",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "lernen",
-      "english": "to learn",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "studieren",
-      "english": "to study",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "helfen",
-      "english": "to help",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "spielen",
-      "english": "to play",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "schwimmen",
-      "english": "to swim",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "tanzen",
-      "english": "to dance",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "wohnen",
-      "english": "to live (reside)",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "leben",
-      "english": "to live",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "warten",
-      "english": "to wait",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "öffnen",
-      "english": "to open",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "schließen",
-      "english": "to close",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "bekommen",
-      "english": "to receive",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "vergessen",
-      "english": "to forget",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "singen",
-      "english": "to sing",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "denken",
-      "english": "to think",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "wissen",
-      "english": "to know",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "fragen",
-      "english": "to ask",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "antworten",
-      "english": "to answer",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "stehen",
-      "english": "to stand",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "sitzen",
-      "english": "to sit",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "liegen",
-      "english": "to lie (down)",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "ziehen",
-      "english": "to pull",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "drücken",
-      "english": "to push",
-      "category": "verb",
-      "difficulty": "easy"
-    },
-    {
-      "german": "empfehlen",
-      "english": "to recommend",
-      "category": "verb",
+      "german": "uberarbeiten",
+      "english": "revise",
       "difficulty": "medium"
     },
     {
-      "german": "entdecken",
-      "english": "to discover",
-      "category": "verb",
+      "german": "verdienen",
+      "english": "to earn",
       "difficulty": "medium"
     },
     {
-      "german": "entwickeln",
-      "english": "to develop",
-      "category": "verb",
+      "german": "schaffen",
+      "english": "accomplish",
       "difficulty": "medium"
     },
     {
-      "german": "erreichen",
-      "english": "to achieve",
-      "category": "verb",
+      "german": "versprechen",
+      "english": "promise",
       "difficulty": "medium"
     },
     {
-      "german": "erklären",
-      "english": "to explain",
-      "category": "verb",
+      "german": "versprechen",
+      "english": "promise",
       "difficulty": "medium"
     },
     {
-      "german": "erlauben",
-      "english": "to allow",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "erziehen",
-      "english": "to educate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "genießen",
-      "english": "to enjoy",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "geraten",
-      "english": "to get into (a situation)",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "gestalten",
-      "english": "to shape/design",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "gewöhnen",
-      "english": "to get used to",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "handeln",
-      "english": "to act/trade",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "klären",
-      "english": "to clarify",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "leiden",
-      "english": "to suffer",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "missverstehen",
-      "english": "to misunderstand",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "nutzen",
-      "english": "to use",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "planen",
-      "english": "to plan",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "reagieren",
-      "english": "to react",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "schätzen",
-      "english": "to appreciate/estimate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "überzeugen",
-      "english": "to convince",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "umsetzen",
-      "english": "to implement",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "untersuchen",
-      "english": "to examine",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "verhindern",
-      "english": "to prevent",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "vermeiden",
-      "english": "to avoid",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "versichern",
-      "english": "to assure/insure",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "versuchen",
-      "english": "to attempt/try",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "verwirklichen",
-      "english": "to realize (a goal)",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "widersprechen",
-      "english": "to contradict",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "wiederholen",
-      "english": "to repeat",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "zwingen",
-      "english": "to force",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "beanspruchen",
-      "english": "to claim/demand",
-      "category": "verb",
+      "german": "erschallen",
+      "english": "to resound",
       "difficulty": "hard"
     },
     {
-      "german": "bedrohen",
-      "english": "to threaten",
-      "category": "verb",
+      "german": "verblassen",
+      "english": "to fade",
       "difficulty": "hard"
     },
     {
-      "german": "befürworten",
-      "english": "to advocate",
-      "category": "verb",
+      "german": "aufspüren",
+      "english": "to track down",
       "difficulty": "hard"
     },
     {
-      "german": "beheben",
-      "english": "to rectify/remedy",
-      "category": "verb",
+      "german": "entweichen",
+      "english": "to escape",
       "difficulty": "hard"
     },
     {
-      "german": "benachrichtigen",
-      "english": "to notify",
-      "category": "verb",
+      "german": "zerschmettern",
+      "english": "to shatter",
       "difficulty": "hard"
     },
     {
-      "german": "bewältigen",
-      "english": "to overcome/cope with",
-      "category": "verb",
+      "german": "verpfänden",
+      "english": "to pawn",
       "difficulty": "hard"
     },
     {
-      "german": "einräumen",
-      "english": "to concede/grant",
-      "category": "verb",
+      "german": "verfluchen",
+      "english": "to curse",
       "difficulty": "hard"
     },
     {
-      "german": "entziffern",
-      "english": "to decipher",
-      "category": "verb",
+      "german": "durchqueren",
+      "english": "to traverse",
       "difficulty": "hard"
     },
     {
-      "german": "erörtern",
-      "english": "to discuss/elaborate",
-      "category": "verb",
+      "german": "verschlingen",
+      "english": "to devour",
       "difficulty": "hard"
     },
     {
-      "german": "feststellen",
-      "english": "to determine/establish",
-      "category": "verb",
+      "german": "entzünden",
+      "english": "to ignite",
       "difficulty": "hard"
     },
     {
-      "german": "hervorheben",
-      "english": "to emphasize/highlight",
-      "category": "verb",
+      "german": "erschüttern",
+      "english": "to shake deeply",
       "difficulty": "hard"
     },
     {
-      "german": "hinterfragen",
-      "english": "to scrutinize",
-      "category": "verb",
+      "german": "verabscheuen",
+      "english": "to loathe",
       "difficulty": "hard"
     },
     {
-      "german": "konzipieren",
-      "english": "to conceptualize",
-      "category": "verb",
+      "german": "ausmerzen",
+      "english": "to eradicate",
       "difficulty": "hard"
     },
     {
-      "german": "nachahmen",
-      "english": "to imitate",
-      "category": "verb",
+      "german": "einschärfen",
+      "english": "to instill (in someone)",
       "difficulty": "hard"
     },
     {
-      "german": "nachvollziehen",
-      "english": "to comprehend",
-      "category": "verb",
+      "german": "verneinen",
+      "english": "to negate",
       "difficulty": "hard"
     },
     {
-      "german": "unterbinden",
-      "english": "to prevent/suppress",
-      "category": "verb",
+      "german": "unterminieren",
+      "english": "to undermine",
       "difficulty": "hard"
     },
     {
-      "german": "verallgemeinern",
-      "english": "to generalize",
-      "category": "verb",
+      "german": "überwältigen",
+      "english": "to overwhelm",
       "difficulty": "hard"
     },
     {
-      "german": "veranlassen",
-      "english": "to arrange/initiate",
-      "category": "verb",
+      "german": "entlarven",
+      "english": "to unmask",
       "difficulty": "hard"
     },
     {
-      "german": "verharmlosen",
-      "english": "to downplay",
-      "category": "verb",
+      "german": "unterjochen",
+      "english": "to subjugate",
       "difficulty": "hard"
     },
     {
-      "german": "verinnerlichen",
-      "english": "to internalize",
-      "category": "verb",
+      "german": "verheddern",
+      "english": "to entangle",
       "difficulty": "hard"
     },
     {
-      "german": "verschleiern",
-      "english": "to disguise/conceal",
-      "category": "verb",
+      "german": "verschmähen",
+      "english": "to scorn",
       "difficulty": "hard"
     },
     {
-      "german": "vorantreiben",
-      "english": "to advance/drive forward",
-      "category": "verb",
+      "german": "verduften",
+      "english": "to vanish (colloquial)",
       "difficulty": "hard"
     },
     {
-      "german": "vorbeugen",
-      "english": "to prevent (illness/misfortune)",
-      "category": "verb",
+      "german": "zerschellen",
+      "english": "to crash (and break into pieces)",
       "difficulty": "hard"
     },
     {
-      "german": "widerlegen",
-      "english": "to refute/disprove",
-      "category": "verb",
+      "german": "ausbeuten",
+      "english": "to exploit",
       "difficulty": "hard"
     },
     {
-      "german": "zerlegen",
-      "english": "to dismantle",
-      "category": "verb",
+      "german": "ermüden",
+      "english": "to tire out",
       "difficulty": "hard"
     },
     {
-      "german": "zerschlagen",
-      "english": "to shatter/smash",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "zusammenfassen",
-      "english": "to summarize",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "zusichern",
-      "english": "to assure/promise",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "zustimmen",
-      "english": "to agree/approve",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "beantragen",
-      "english": "to apply for",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "ermöglichen",
-      "english": "to enable/make possible",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "unterstützen",
-      "english": "to support",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "vereinbaren",
-      "english": "to agree upon/arrange",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "bestätigen",
-      "english": "to confirm",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "erfordern",
-      "english": "to require",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "ausdrücken",
-      "english": "to express",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "befürchten",
-      "english": "to fear",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "ermitteln",
-      "english": "to investigate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "beeinflussen",
-      "english": "to influence",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "anpassen",
-      "english": "to adapt",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "bewerten",
-      "english": "to evaluate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "abschließen",
-      "english": "to complete/finish",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "beobachten",
-      "english": "to observe",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "fördern",
-      "english": "to promote",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "herausfordern",
-      "english": "to challenge",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "kritisieren",
-      "english": "to criticize",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "löschen",
-      "english": "to delete/erase",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "motivieren",
-      "english": "to motivate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "realisieren",
-      "english": "to realize",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "sichern",
-      "english": "to secure",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "überprüfen",
-      "english": "to check/review",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "veröffentlichen",
-      "english": "to publish",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "vorbereiten",
-      "english": "to prepare",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "wahrnehmen",
-      "english": "to perceive",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "zweifeln",
-      "english": "to doubt",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "anbieten",
-      "english": "to offer",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "begründen",
-      "english": "to justify",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "erkunden",
-      "english": "to explore",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "integrieren",
-      "english": "to integrate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "kommunizieren",
-      "english": "to communicate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "nachfragen",
-      "english": "to inquire",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "reduzieren",
-      "english": "to reduce",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "vergleichen",
-      "english": "to compare",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "zulassen",
-      "english": "to allow/permit",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "zusammenarbeiten",
-      "english": "to collaborate",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "zuweisen",
-      "english": "to assign",
-      "category": "verb",
-      "difficulty": "medium"
-    },
-    {
-      "german": "abverlangen",
-      "english": "to demand from",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "aneignen",
-      "english": "to acquire (knowledge)",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "auseinandersetzen",
-      "english": "to engage critically with",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "behelligen",
-      "english": "to bother/annoy",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "bekräftigen",
-      "english": "to reaffirm",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "berufen",
-      "english": "to appoint/summon",
-      "category": "verb",
+      "german": "verleugnen",
+      "english": "to renounce",
       "difficulty": "hard"
     },
     {
       "german": "beschwichtigen",
       "english": "to appease",
-      "category": "verb",
       "difficulty": "hard"
     },
     {
-      "german": "bewerkstelligen",
-      "english": "to accomplish",
-      "category": "verb",
+      "german": "verklären",
+      "english": "to glorify",
       "difficulty": "hard"
     },
     {
-      "german": "billigen",
-      "english": "to approve",
-      "category": "verb",
+      "german": "verunstalten",
+      "english": "to disfigure",
       "difficulty": "hard"
     },
     {
-      "german": "darlegen",
-      "english": "to explain/elucidate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "entbehren",
-      "english": "to lack/do without",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "enteignen",
-      "english": "to expropriate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "entsenden",
-      "english": "to dispatch/send out",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "festsetzen",
-      "english": "to determine/set",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "florieren",
-      "english": "to flourish",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "geheimhalten",
-      "english": "to keep secret",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "geltend machen",
-      "english": "to assert/enforce",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "herabsetzen",
-      "english": "to degrade/lower",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "initiieren",
-      "english": "to initiate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "kapitulieren",
-      "english": "to capitulate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "kontern",
-      "english": "to counter",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "maßregeln",
-      "english": "to reprimand",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "nachsagen",
-      "english": "to allege",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "niederschlagen",
-      "english": "to suppress/quell",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "offenbaren",
-      "english": "to reveal",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "plädieren",
-      "english": "to plead",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "proklamieren",
-      "english": "to proclaim",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "redundant sein",
-      "english": "to be redundant",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "resümieren",
-      "english": "to summarize",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "revidieren",
-      "english": "to revise",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "rügen",
-      "english": "to reprimand",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "stagnieren",
-      "english": "to stagnate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "tilgen",
-      "english": "to erase/pay off (debt)",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "übervorteilen",
-      "english": "to take advantage of",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "veranschlagen",
-      "english": "to estimate/calculate",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "verblüffen",
-      "english": "to astonish",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "verdrängen",
-      "english": "to suppress/repress",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "verhöhnen",
-      "english": "to mock",
-      "category": "verb",
-      "difficulty": "hard"
-    },
-    {
-      "german": "verstimmen",
-      "english": "to upset/displease",
-      "category": "verb",
+      "german": "zermürben",
+      "english": "to wear down",
       "difficulty": "hard"
     }
   ]

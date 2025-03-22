@@ -3,17 +3,17 @@
     {
       "german": "kehren",
       "english": "return",
-      "difficulty": "mediujm"
+      "difficulty": "medium"
     },
     {
       "german": "wachsen",
       "english": "grow",
-      "difficulty": "mediujm"
+      "difficulty": "medium"
     },
     {
       "german": "erfinden",
       "english": "invent",
-      "difficulty": "mediujm"
+      "difficulty": "medium"
     },
     {
       "german": "uberarbeiten",
@@ -46,11 +46,6 @@
       "difficulty": "medium"
     },
     {
-      "german": "schaffen",
-      "english": "accomplish",
-      "difficulty": "medium"
-    },
-    {
       "german": "versprechen",
       "english": "promise",
       "difficulty": "medium"
@@ -58,11 +53,6 @@
     {
       "german": "verteilen",
       "english": "distribute",
-      "difficulty": "medium"
-    },
-    {
-      "german": "versprechen",
-      "english": "promise",
       "difficulty": "medium"
     },
     {

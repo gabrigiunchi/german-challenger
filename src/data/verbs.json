@@ -1,6 +1,151 @@
 {
   "words": [
     {
+      "german": "verlieren",
+      "english": "lose",
+      "difficulty": "medium"
+    },
+    {
+      "german": "empfehlen",
+      "english": "recommend",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erkennen",
+      "english": "recognize",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erfinden",
+      "english": "invent",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vermeiden",
+      "english": "avoid",
+      "difficulty": "medium"
+    },
+    {
+      "german": "genießen",
+      "english": "enjoy",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beweisen",
+      "english": "prove",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verbinden",
+      "english": "connect",
+      "difficulty": "medium"
+    },
+    {
+      "german": "gewinnen",
+      "english": "win",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erlauben",
+      "english": "allow",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bemerken",
+      "english": "notice",
+      "difficulty": "medium"
+    },
+    {
+      "german": "entwickeln",
+      "english": "develop",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zerstören",
+      "english": "destroy",
+      "difficulty": "medium"
+    },
+    {
+      "german": "entdecken",
+      "english": "discover",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bedeuten",
+      "english": "mean",
+      "difficulty": "medium"
+    },
+    {
+      "german": "versprechen",
+      "english": "promise",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verlassen",
+      "english": "leave",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erklären",
+      "english": "explain",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich erinnern",
+      "english": "remember",
+      "difficulty": "medium"
+    },
+    {
+      "german": "lügen",
+      "english": "lie (not tell the truth)",
+      "difficulty": "medium"
+    },
+    {
+      "german": "drucken",
+      "english": "print",
+      "difficulty": "medium"
+    },
+    {
+      "german": "retten",
+      "english": "rescue",
+      "difficulty": "medium"
+    },
+    {
+      "german": "prüfen",
+      "english": "check",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beenden",
+      "english": "finish",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich gewöhnen",
+      "english": "get used to",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erschrecken",
+      "english": "scare",
+      "difficulty": "medium"
+    },
+    {
+      "german": "entstehen",
+      "english": "arise",
+      "difficulty": "medium"
+    },
+    {
+      "german": "betrügen",
+      "english": "cheat",
+      "difficulty": "medium"
+    },
+    {
+      "german": "kündigen",
+      "english": "resign",
+      "difficulty": "medium"
+    },
+    {
       "german": "kehren",
       "english": "return",
       "difficulty": "medium"

@@ -1,6 +1,156 @@
 {
   "words": [
     {
+      "german": "stehlen",
+      "english": "steal",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verschwinden",
+      "english": "disappear",
+      "difficulty": "medium"
+    },
+    {
+      "german": "überzeugen",
+      "english": "convince",
+      "difficulty": "medium"
+    },
+    {
+      "german": "gelingen",
+      "english": "succeed",
+      "difficulty": "medium"
+    },
+    {
+      "german": "befehlen",
+      "english": "command",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zweifeln",
+      "english": "doubt",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ausweichen",
+      "english": "dodge",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erhalten",
+      "english": "receive",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erreichen",
+      "english": "achieve",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verlangen",
+      "english": "demand",
+      "difficulty": "medium"
+    },
+    {
+      "german": "scheitern",
+      "english": "fail",
+      "difficulty": "medium"
+    },
+    {
+      "german": "überleben",
+      "english": "survive",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ausnutzen",
+      "english": "exploit",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vergleichen",
+      "english": "compare",
+      "difficulty": "medium"
+    },
+    {
+      "german": "besitzen",
+      "english": "own",
+      "difficulty": "medium"
+    },
+    {
+      "german": "scheinen",
+      "english": "seem",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erscheinen",
+      "english": "appear",
+      "difficulty": "medium"
+    },
+    {
+      "german": "entfernen",
+      "english": "remove",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ablehnen",
+      "english": "reject",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bestehen",
+      "english": "exist, pass (exam)",
+      "difficulty": "medium"
+    },
+    {
+      "german": "anbieten",
+      "english": "offer",
+      "difficulty": "medium"
+    },
+    {
+      "german": "zwingen",
+      "english": "force",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beruhigen",
+      "english": "calm down",
+      "difficulty": "medium"
+    },
+    {
+      "german": "schätzen",
+      "english": "appreciate, estimate",
+      "difficulty": "medium"
+    },
+    {
+      "german": "warnen",
+      "english": "warn",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erreichen",
+      "english": "reach",
+      "difficulty": "medium"
+    },
+    {
+      "german": "begründen",
+      "english": "justify",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verhindern",
+      "english": "prevent",
+      "difficulty": "medium"
+    },
+    {
+      "german": "betreten",
+      "english": "enter",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich wundern",
+      "english": "wonder",
+      "difficulty": "medium"
+    },
+    {
       "german": "verlieren",
       "english": "lose",
       "difficulty": "medium"

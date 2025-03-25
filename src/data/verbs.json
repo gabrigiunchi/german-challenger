@@ -1,6 +1,156 @@
 {
   "words": [
     {
+      "german": "ändern",
+      "english": "change",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erforschen",
+      "english": "explore",
+      "difficulty": "medium"
+    },
+    {
+      "german": "untersuchen",
+      "english": "examine",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erweitern",
+      "english": "expand",
+      "difficulty": "medium"
+    },
+    {
+      "german": "darstellen",
+      "english": "represent",
+      "difficulty": "medium"
+    },
+    {
+      "german": "feststellen",
+      "english": "determine",
+      "difficulty": "medium"
+    },
+    {
+      "german": "abschließen",
+      "english": "conclude, lock",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beobachten",
+      "english": "observe",
+      "difficulty": "medium"
+    },
+    {
+      "german": "vorbereiten",
+      "english": "prepare",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beeinflussen",
+      "english": "influence",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ausdrücken",
+      "english": "express",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich benehmen",
+      "english": "behave",
+      "difficulty": "medium"
+    },
+    {
+      "german": "einfallen",
+      "english": "come to mind",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich entschließen",
+      "english": "decide",
+      "difficulty": "medium"
+    },
+    {
+      "german": "aufgeben",
+      "english": "give up",
+      "difficulty": "medium"
+    },
+    {
+      "german": "nachdenken",
+      "english": "reflect, think about",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verzichten",
+      "english": "do without",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich irren",
+      "english": "be mistaken",
+      "difficulty": "medium"
+    },
+    {
+      "german": "ausgeben",
+      "english": "spend (money)",
+      "difficulty": "medium"
+    },
+    {
+      "german": "erzeugen",
+      "english": "generate, produce",
+      "difficulty": "medium"
+    },
+    {
+      "german": "beraten",
+      "english": "advise",
+      "difficulty": "medium"
+    },
+    {
+      "german": "verbergen",
+      "english": "hide, conceal",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich lohnen",
+      "english": "be worth it",
+      "difficulty": "medium"
+    },
+    {
+      "german": "scheiden",
+      "english": "separate, divorce",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bewältigen",
+      "english": "cope with, manage",
+      "difficulty": "medium"
+    },
+    {
+      "german": "betragen",
+      "english": "amount to",
+      "difficulty": "medium"
+    },
+    {
+      "german": "bedrohen",
+      "english": "threaten",
+      "difficulty": "medium"
+    },
+    {
+      "german": "aufheben",
+      "english": "pick up, cancel",
+      "difficulty": "medium"
+    },
+    {
+      "german": "übertreiben",
+      "english": "exaggerate",
+      "difficulty": "medium"
+    },
+    {
+      "german": "sich beschäftigen",
+      "english": "deal with, be busy with",
+      "difficulty": "medium"
+    },
+    {
       "german": "stehlen",
       "english": "steal",
       "difficulty": "medium"
@@ -208,11 +358,6 @@
     {
       "german": "entdecken",
       "english": "discover",
-      "difficulty": "medium"
-    },
-    {
-      "german": "bedeuten",
-      "english": "mean",
       "difficulty": "medium"
     },
     {

@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { CheckCircle2, XCircle } from 'lucide-react';
+import React, {useEffect} from 'react';
+import {CheckCircle2, XCircle} from 'lucide-react';
 
 interface GameCardProps {
   germanWord: string;
@@ -11,12 +11,12 @@ interface GameCardProps {
   onNextWord: () => void;
 }
 
-export function GameCard({ 
-  germanWord, 
-  options, 
-  onSelect, 
-  isCorrect, 
-  selectedAnswer, 
+export function GameCard({
+  germanWord,
+  options,
+  onSelect,
+  isCorrect,
+  selectedAnswer,
   correctAnswer,
   onNextWord
 }: GameCardProps) {
@@ -24,7 +24,7 @@ export function GameCard({
     if (isCorrect) {
       const timer = setTimeout(() => {
         onNextWord();
-      }, 200);
+      }, 5);
       return () => clearTimeout(timer);
     }
   }, [isCorrect, onNextWord]);
@@ -41,17 +41,15 @@ export function GameCard({
           <button
             key={option}
             onClick={() => !selectedAnswer && onSelect(option)}
-            className={`w-full p-4 text-left rounded-lg transition-all ${
-              selectedAnswer
-                ? option === correctAnswer
-                  ? 'bg-green-100 border-green-500'
-                  : option === selectedAnswer
+            className={`w-full p-4 text-left rounded-lg transition-all ${selectedAnswer
+              ? option === correctAnswer
+                ? 'bg-green-100 border-green-500'
+                : option === selectedAnswer
                   ? 'bg-red-100 border-red-500'
                   : 'bg-gray-100 opacity-50'
-                : 'bg-gray-100 hover:bg-gray-200'
-            } ${
-              selectedAnswer ? 'cursor-default' : 'cursor-pointer'
-            }`}
+              : 'bg-gray-100 hover:bg-gray-200'
+              } ${selectedAnswer ? 'cursor-default' : 'cursor-pointer'
+              }`}
             disabled={!!selectedAnswer}
           >
             {option}
@@ -66,9 +64,8 @@ export function GameCard({
       </div>
 
       {selectedAnswer && (
-        <div className={`text-center p-3 rounded-lg ${
-          isCorrect ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
-        }`}>
+        <div className={`text-center p-3 rounded-lg ${isCorrect ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+          }`}>
           {isCorrect ? 'Correct! 🎉' : `Incorrect. The correct answer was "${correctAnswer}"`}
         </div>
       )}

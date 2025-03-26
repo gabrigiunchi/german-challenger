@@ -18,6 +18,18 @@ export function Game() {
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [score, setScore] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
+  const [i, setI] = useState(0);
+
+  const loadWords = (): Word[] => {
+    const wordsData = category === 'noun' ? nounsData : verbsData;
+    const filteredWords: Word[] = wordsData.words.filter(
+      (word) => word.difficulty === difficulty
+    );
+    filteredWords.sort(() => Math.random());
+    return filteredWords;
+  };
+
+  const [words, setWords] = useState<Word[]>(loadWords());
 
   useEffect(() => {
     if (!category || !difficulty) {
@@ -25,13 +37,6 @@ export function Game() {
     }
   }, [category, difficulty, navigate]);
 
-  const getRandomWord = () => {
-    const wordsData = category === 'noun' ? nounsData : verbsData;
-    const filteredWords = wordsData.words.filter(
-      (word) => word.difficulty === difficulty
-    );
-    return filteredWords[Math.floor(Math.random() * filteredWords.length)];
-  };
 
   const generateOptions = (correctWord: Word) => {
     const wordsData = category === 'noun' ? nounsData : verbsData;
@@ -49,7 +54,16 @@ export function Game() {
   };
 
   const nextWord = () => {
-    const newWord = getRandomWord();
+    let nextI = i;
+    if (nextI === words.length) {
+      setWords(loadWords());
+      nextI = 0
+      setScore(0);
+      setTotalQuestions(0);
+    }
+
+    const newWord = words[nextI];
+    setI(nextI + 1);
     setCurrentWord(newWord);
     setOptions(generateOptions(newWord));
     setSelectedAnswer(null);
@@ -88,6 +102,7 @@ export function Game() {
             <h1 className="text-3xl font-bold text-gray-800">Learn German</h1>
           </div>
           <p className="text-gray-600">Challenge yourself with German vocabulary!</p>
+          <p>{words.length} words</p>
         </div>
 
         <div className="flex flex-col items-center gap-6">

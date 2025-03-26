@@ -644,6 +644,21 @@
       "german": "zermürben",
       "english": "to wear down",
       "difficulty": "hard"
+    },
+    {
+      "german": "essen",
+      "english": "eat",
+      "difficulty": "easy"
+    },
+    {
+      "german": "schlafen",
+      "english": "sleep",
+      "difficulty": "easy"
+    },
+    {
+      "german": "trinken",
+      "english": "drink",
+      "difficulty": "easy"
     }
   ]
 }

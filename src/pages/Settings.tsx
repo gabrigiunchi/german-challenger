@@ -4,8 +4,8 @@ import { GraduationCap, BookOpen, Swords } from 'lucide-react';
 
 export function Settings() {
   const navigate = useNavigate();
-  const [category, setCategory] = React.useState<'noun' | 'verb'>('noun');
-  const [difficulty, setDifficulty] = React.useState<'easy' | 'medium' | 'hard'>('easy');
+  const [category, setCategory] = React.useState<'noun' | 'verb'>('verb');
+  const [difficulty, setDifficulty] = React.useState<'easy' | 'medium' | 'hard'>('medium');
 
   const handleStartGame = () => {
     navigate(`/game?category=${category}&difficulty=${difficulty}`);

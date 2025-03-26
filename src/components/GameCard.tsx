@@ -24,7 +24,7 @@ export function GameCard({
     if (isCorrect) {
       const timer = setTimeout(() => {
         onNextWord();
-      }, 5);
+      }, 100);
       return () => clearTimeout(timer);
     }
   }, [isCorrect, onNextWord]);

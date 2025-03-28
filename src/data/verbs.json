@@ -3,7 +3,7 @@
     {
       "german": "ändern",
       "english": "change",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "besiegen",
@@ -68,7 +68,7 @@
     {
       "german": "vorbereiten",
       "english": "prepare",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "beeinflussen",
@@ -103,7 +103,7 @@
     {
       "german": "nachdenken",
       "english": "reflect, think about",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "verzichten",
@@ -178,7 +178,7 @@
     {
       "german": "stehlen",
       "english": "steal",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "verschwinden",
@@ -293,12 +293,12 @@
     {
       "german": "schätzen",
       "english": "appreciate, estimate",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "warnen",
       "english": "warn",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "begründen",
@@ -318,7 +318,7 @@
     {
       "german": "sich wundern",
       "english": "wonder",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "verlieren",
@@ -328,7 +328,7 @@
     {
       "german": "empfehlen",
       "english": "recommend",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "erkennen",
@@ -383,7 +383,7 @@
     {
       "german": "entdecken",
       "english": "discover",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "versprechen",
@@ -398,12 +398,12 @@
     {
       "german": "sich erinnern",
       "english": "remember",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "lügen",
       "english": "lie (not tell the truth)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "retten",
@@ -418,7 +418,7 @@
     {
       "german": "beenden",
       "english": "finish",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "sich gewöhnen",

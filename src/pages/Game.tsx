@@ -25,7 +25,6 @@ export function Game() {
     const filteredWords: Word[] = wordsData.words.filter(
       (word) => word.difficulty === difficulty
     );
-    filteredWords.sort(() => Math.random());
     return filteredWords;
   };
 

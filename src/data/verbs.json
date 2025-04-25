@@ -43,7 +43,7 @@
     {
       "german": "untersuchen",
       "english": "examine",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "erweitern",
@@ -63,12 +63,12 @@
     {
       "german": "abschließen",
       "english": "conclude, lock",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "beobachten",
       "english": "observe",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "vorbereiten",
@@ -98,7 +98,7 @@
     {
       "german": "sich entschließen",
       "english": "decide",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "aufgeben",
@@ -118,7 +118,7 @@
     {
       "german": "sich irren",
       "english": "be mistaken",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "ausgeben",
@@ -143,12 +143,12 @@
     {
       "german": "sich lohnen",
       "english": "be worth it",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "scheiden",
       "english": "separate, divorce",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "bewältigen",
@@ -238,7 +238,7 @@
     {
       "german": "überleben",
       "english": "survive",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "ausnutzen",
@@ -248,7 +248,7 @@
     {
       "german": "vergleichen",
       "english": "compare",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "besitzen",
@@ -268,7 +268,7 @@
     {
       "german": "entfernen",
       "english": "remove",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "ablehnen",
@@ -293,7 +293,7 @@
     {
       "german": "beruhigen",
       "english": "calm down",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "schätzen",
@@ -338,7 +338,7 @@
     {
       "german": "erkennen",
       "english": "recognize",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "erfinden",
@@ -353,7 +353,7 @@
     {
       "german": "genießen",
       "english": "enjoy",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "beweisen",
@@ -363,7 +363,7 @@
     {
       "german": "verbinden",
       "english": "connect",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "erlauben",
@@ -373,12 +373,12 @@
     {
       "german": "bemerken",
       "english": "notice",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "entwickeln",
       "english": "develop",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "zerstören",
@@ -398,7 +398,7 @@
     {
       "german": "verlassen",
       "english": "leave",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "sich erinnern",
@@ -428,7 +428,7 @@
     {
       "german": "sich gewöhnen",
       "english": "get used to",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "erschrecken",
@@ -448,7 +448,7 @@
     {
       "german": "kündigen",
       "english": "resign",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "german": "kehren",

@@ -1,213 +1,257 @@
 {
   "words": [
-    {
-      "german": "die Beute",
-      "english": "prey",
-      "difficulty": "medium"
-    },
-    {
-      "german": "der Feind",
-      "english": "enemy",
-      "difficulty": "medium"
-    },
-    {
-      "german": "das Raubtier",
-      "english": "predator",
-      "difficulty": "medium"
-    },
-    {
-      "german": "das Ereignis",
-      "english": "event",
-      "difficulty": "medium"
-    },
+    { "german": "die Beute", "english": "prey", "difficulty": "medium" },
+    { "german": "der Feind", "english": "enemy", "difficulty": "medium" },
+    { "german": "das Raubtier", "english": "predator", "difficulty": "medium" },
+    { "german": "das Ereignis", "english": "event", "difficulty": "medium" },
     {
       "german": "die Bedingung",
       "english": "condition",
       "difficulty": "medium"
     },
-    {
-      "german": "allerdings",
-      "english": "however",
-      "difficulty": "medium"
-    },
+    { "german": "allerdings", "english": "however", "difficulty": "medium" },
     {
       "german": "der Lebensraum",
       "english": "habitat",
       "difficulty": "medium"
     },
+    { "german": "die Überreste", "english": "remains", "difficulty": "medium" },
+    { "german": "fern", "english": "remote", "difficulty": "medium" },
+    { "german": "die Stimme", "english": "voice", "difficulty": "medium" },
+    { "german": "böse", "english": "evil", "difficulty": "medium" },
+    { "german": "zutaten", "english": "ingredients", "difficulty": "medium" },
+    { "german": "die Beute", "english": "prey", "difficulty": "medium" },
     {
-      "german": "die Überreste",
-      "english": "remains",
+      "german": "der Zufall",
+      "english": "coincidence",
       "difficulty": "medium"
     },
     {
-      "german": "fern",
-      "english": "remote",
+      "german": "die Schuld",
+      "english": "guilt, debt",
       "difficulty": "medium"
     },
     {
-      "german": "die Stimme",
-      "english": "voice",
+      "german": "das Verhalten",
+      "english": "behavior",
       "difficulty": "medium"
     },
     {
-      "german": "böse",
-      "english": "evil",
+      "german": "die Eigenschaft",
+      "english": "characteristic",
       "difficulty": "medium"
     },
     {
-      "german": "zutaten",
-      "english": "ingredients",
+      "german": "die Stimmung",
+      "english": "mood, atmosphere",
       "difficulty": "medium"
     },
     {
-      "german": "der Zwiespalt",
-      "english": "inner conflict",
+      "german": "die Bedingung",
+      "english": "condition, requirement",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Beziehung",
+      "english": "relationship",
+      "difficulty": "medium"
+    },
+    {
+      "german": "der Einfluss",
+      "english": "influence",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Umgebung",
+      "english": "surroundings, environment",
+      "difficulty": "medium"
+    },
+    {
+      "german": "die Unterstützung",
+      "english": "support, assistance",
       "difficulty": "hard"
     },
     {
-      "german": "die Befangenheit",
-      "english": "bias, self-consciousness",
+      "german": "die Einstellung",
+      "english": "attitude, setting",
       "difficulty": "hard"
     },
     {
-      "german": "die Raffinesse",
-      "english": "sophistication, cunning",
+      "german": "die Darstellung",
+      "english": "representation, portrayal",
       "difficulty": "hard"
     },
     {
-      "german": "die Verworrenheit",
-      "english": "confusion, entanglement",
+      "german": "die Entscheidung",
+      "english": "decision",
       "difficulty": "hard"
     },
     {
-      "german": "der Argwohn",
-      "english": "suspicion",
+      "german": "die Erzählung",
+      "english": "narrative, tale",
       "difficulty": "hard"
     },
     {
-      "german": "die Unzulänglichkeit",
-      "english": "shortcoming, inadequacy",
+      "german": "die Entwicklung",
+      "english": "development",
       "difficulty": "hard"
     },
     {
-      "german": "die Abgeschiedenheit",
-      "english": "seclusion, isolation",
+      "german": "die Verantwortung",
+      "english": "responsibility",
       "difficulty": "hard"
     },
     {
-      "german": "die Entbehrung",
-      "english": "privation, hardship",
+      "german": "die Voraussetzung",
+      "english": "requirement, prerequisite",
       "difficulty": "hard"
     },
     {
-      "german": "die Gewissenhaftigkeit",
-      "english": "conscientiousness",
+      "german": "die Enttäuschung",
+      "english": "disappointment",
       "difficulty": "hard"
     },
     {
-      "german": "der Hochmut",
-      "english": "arrogance, haughtiness",
+      "german": "die Gelegenheit",
+      "english": "opportunity, occasion",
       "difficulty": "hard"
     },
     {
-      "german": "der Makel",
-      "english": "blemish, flaw",
+      "german": "die Herausforderung",
+      "english": "challenge",
       "difficulty": "hard"
     },
     {
-      "german": "die Heimtücke",
-      "english": "treachery, insidiousness",
+      "german": "die Erkenntnis",
+      "english": "insight, realization",
       "difficulty": "hard"
     },
     {
-      "german": "die Verstörtheit",
-      "english": "bewilderment, dismay",
+      "german": "der Widerstand",
+      "english": "resistance, opposition",
       "difficulty": "hard"
     },
     {
-      "german": "die Zerknirschung",
-      "english": "remorse, contrition",
+      "german": "die Zustimmung",
+      "english": "approval, consent",
       "difficulty": "hard"
     },
     {
-      "german": "die Fügung",
-      "english": "providence, coincidence",
+      "german": "die Auswirkung",
+      "english": "effect, impact",
       "difficulty": "hard"
     },
     {
-      "german": "die Bredouille",
-      "english": "predicament (colloquial)",
+      "german": "die Entstehung",
+      "english": "origin, formation",
       "difficulty": "hard"
     },
     {
-      "german": "die Arglist",
-      "english": "deceit, guile",
+      "german": "die Verfassung",
+      "english": "constitution, condition",
       "difficulty": "hard"
     },
     {
-      "german": "überdrüssig",
-      "english": "weary, fed up with",
+      "german": "die Verwaltung",
+      "english": "administration",
       "difficulty": "hard"
     },
     {
-      "german": "verworren",
-      "english": "confused, tangled",
+      "german": "der Zusammenhang",
+      "english": "connection, context",
       "difficulty": "hard"
     },
     {
-      "german": "verdrießlich",
-      "english": "sullen, morose",
+      "german": "die Voraussetzung",
+      "english": "precondition",
       "difficulty": "hard"
     },
     {
-      "german": "ungezügelt",
-      "english": "unrestrained, rampant",
+      "german": "die Gegenwart",
+      "english": "present (time)",
+      "difficulty": "hard"
+    },
+    { "german": "die Vergangenheit", "english": "past", "difficulty": "hard" },
+    { "german": "die Zukunft", "english": "future", "difficulty": "hard" },
+    {
+      "german": "die Sehnsucht",
+      "english": "longing, yearning",
+      "difficulty": "hard"
+    },
+    { "german": "die Hoffnung", "english": "hope", "difficulty": "hard" },
+    {
+      "german": "das Vertrauen",
+      "english": "trust, confidence",
       "difficulty": "hard"
     },
     {
-      "german": "schroff",
-      "english": "abrupt, harsh",
+      "german": "die Erfahrung",
+      "english": "experience",
       "difficulty": "hard"
     },
     {
-      "german": "tückisch",
-      "english": "treacherous, insidious",
+      "german": "die Bedeutung",
+      "english": "meaning, significance",
       "difficulty": "hard"
     },
     {
-      "german": "argwöhnisch",
-      "english": "suspicious, distrustful",
+      "german": "die Erinnerung",
+      "english": "memory, recollection",
       "difficulty": "hard"
     },
     {
-      "german": "weitschweifig",
-      "english": "long-winded, verbose",
+      "german": "die Bewusstsein",
+      "english": "consciousness, awareness",
       "difficulty": "hard"
     },
     {
-      "german": "abgründig",
-      "english": "profound, unfathomable",
+      "german": "die Möglichkeit",
+      "english": "possibility",
       "difficulty": "hard"
     },
     {
-      "german": "unverhohlen",
-      "english": "unconcealed, blatant",
+      "german": "die Wahrscheinlichkeit",
+      "english": "probability, likelihood",
       "difficulty": "hard"
     },
     {
-      "german": "standhaft",
-      "english": "steadfast, resilient",
+      "german": "die Wirklichkeit",
+      "english": "reality",
       "difficulty": "hard"
     },
     {
-      "german": "unerschwinglich",
-      "english": "prohibitively expensive",
+      "german": "die Vorstellung",
+      "english": "imagination, idea, performance",
       "difficulty": "hard"
     },
     {
-      "german": "schneidig",
-      "english": "dashing, spirited",
+      "german": "die Zugehörigkeit",
+      "english": "belonging, affiliation",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Zustimmung",
+      "english": "agreement, consent",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Gewohnheit",
+      "english": "habit, custom",
+      "difficulty": "hard"
+    },
+    {
+      "german": "der Fortschritt",
+      "english": "progress",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Herausforderung",
+      "english": "challenge",
+      "difficulty": "hard"
+    },
+    {
+      "german": "die Überzeugung",
+      "english": "conviction, belief",
       "difficulty": "hard"
     }
   ]

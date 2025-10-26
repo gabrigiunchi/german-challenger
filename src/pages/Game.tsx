@@ -1,18 +1,11 @@
-import React, {useState, useEffect} from 'react';
-import {useNavigate, useSearchParams} from 'react-router-dom';
-import nounsData from '../data/nouns.json';
-import verbsData from '../data/verbs.json';
+import {useEffect, useState, } from 'react';
+import data from '../data/words.json';
 import {Word} from '../types/words';
 import {GameCard} from '../components/GameCard';
 import {GameControls} from '../components/GameControls';
-import {GraduationCap, Settings} from 'lucide-react';
+import {GraduationCap, } from 'lucide-react';
 
 export function Game() {
-  const navigate = useNavigate();
-  const [searchParams] = useSearchParams();
-  const category = searchParams.get('category') as 'noun' | 'verb';
-  const difficulty = searchParams.get('difficulty') as 'easy' | 'medium' | 'hard';
-
   const [currentWord, setCurrentWord] = useState<Word | null>(null);
   const [options, setOptions] = useState<string[]>([]);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
@@ -20,30 +13,13 @@ export function Game() {
   const [totalQuestions, setTotalQuestions] = useState(0);
   const [i, setI] = useState(0);
 
-  const loadWords = (): Word[] => {
-    const wordsData = category === 'noun' ? nounsData : verbsData;
-    const filteredWords: Word[] = wordsData.words.filter(
-      (word) => word.difficulty === difficulty
-    );
-    return filteredWords;
-  };
-
-  const [words, setWords] = useState<Word[]>(loadWords());
-
-  useEffect(() => {
-    if (!category || !difficulty) {
-      navigate('/settings');
-    }
-  }, [category, difficulty, navigate]);
-
+  const [words, setWords] = useState<Word[]>(data.words);
 
   const generateOptions = (correctWord: Word) => {
-    const wordsData = category === 'noun' ? nounsData : verbsData;
-    const incorrectOptions = wordsData.words
+    const incorrectOptions = words
       .filter(
         (word) =>
-          word.english !== correctWord.english &&
-          word.difficulty === difficulty
+          word.english !== correctWord.english
       )
       .sort(() => Math.random() - 0.5)
       .slice(0, 2)
@@ -55,7 +31,7 @@ export function Game() {
   const nextWord = () => {
     let nextI = i;
     if (nextI === words.length) {
-      setWords(loadWords());
+      setWords(data.words);
       nextI = 0
       setScore(0);
       setTotalQuestions(0);
@@ -77,25 +53,13 @@ export function Game() {
   };
 
   useEffect(() => {
-    if (category && difficulty) {
-      nextWord();
-    }
-  }, [category, difficulty]);
-
-  if (!category || !difficulty) {
-    return null;
-  }
+    nextWord();
+  }, []);
 
   return (
     <div className="min-h-screen bg-gray-100 py-8 px-4">
       <div className="max-w-4xl mx-auto space-y-8">
         <div className="text-center relative">
-          <button
-            onClick={() => navigate('/settings')}
-            className="absolute left-0 top-1/2 -translate-y-1/2 p-2 text-gray-600 hover:text-gray-900"
-          >
-            <Settings size={24} />
-          </button>
           <div className="flex items-center justify-center gap-3 mb-4">
             <GraduationCap className="text-blue-500" size={32} />
             <h1 className="text-3xl font-bold text-gray-800">Learn German</h1>

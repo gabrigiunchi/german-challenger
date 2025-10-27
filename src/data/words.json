@@ -67,6 +67,26 @@
     {
       "german": "deutlich",
       "english": "clearly"
+    },
+    {
+      "german": "zu abbrechen",
+      "english": "cancel, drop out"
+    },
+    {
+      "german": "verantwortlich",
+      "english": "responsible"
+    },
+    {
+      "german": "beliebt",
+      "english": "popular"
+    },
+    {
+      "german": "gesetz",
+      "english": "law"
+    },
+    {
+      "german": "zu erledigen",
+      "english": "do, complete, take care of"
     }
   ]
 }

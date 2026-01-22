@@ -63,6 +63,18 @@
     {
       "german": "zu abwickeln",
       "english": "handle"
+    },
+    {
+      "german": "Zutat",
+      "english": "ingredient"
+    },
+    {
+      "german": "zu wirken",
+      "english": "have an effect"
+    },
+    {
+      "german": "zu berichten",
+      "english": "report"
     }
   ]
 }

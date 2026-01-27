@@ -81,6 +81,10 @@
       "english": "success"
     },
     {
+      "german": "zu scheitern",
+      "english": "fail"
+    },
+    {
       "german": "zu ersetzen",
       "english": "substitute"
     },

@@ -123,6 +123,38 @@
     {
       "german": "gängig",
       "english": "common, standard"
+    },
+    {
+      "german": "knappen",
+      "english": "scarce"
+    },
+    {
+      "german": "zu etwas hinlegen",
+      "english": "pull off"
+    },
+    {
+      "german": "endgültig",
+      "english": "finally"
+    },
+    {
+      "german": "zu gelten",
+      "english": "apply"
+    },
+    {
+      "german": "zu einstellen",
+      "english": "adjust"
+    },
+    {
+      "german": "zu angreifen",
+      "english": "attack"
+    },
+    {
+      "german": "zu vertreiben",
+      "english": "sell/distribute"
+    },
+    {
+      "german": "zu beeindrucken",
+      "english": "impress"
     }
   ]
 }

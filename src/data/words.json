@@ -62,7 +62,7 @@
     },
     {
       "german": "zu abwickeln",
-      "english": "handle"
+      "english": "handle, process"
     },
     {
       "german": "Zutat",
@@ -163,6 +163,10 @@
     {
       "german": "entheben",
       "english": "remove someone from office"
+    },
+    {
+      "german": "Lage",
+      "english": "situation"
     }
   ]
 }

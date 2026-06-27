@@ -99,6 +99,46 @@
     {
       "german": "Feind",
       "english": "nemico"
+    },
+    {
+      "german": "inbesondere",
+      "english": "in particolare"
+    },
+    {
+      "german": "unvertraut",
+      "english": "sconosciuto"
+    },
+    {
+      "german": "erscheinen",
+      "english": "apparire"
+    },
+    {
+      "german": "Auftrag",
+      "english": "ordine"
+    },
+    {
+      "german": "zu verkünden",
+      "english": "annunciare"
+    },
+    {
+      "german": "zufolge",
+      "english": "secondo"
+    },
+    {
+      "german": "Held",
+      "english": "eroe"
+    },
+    {
+      "german": "sogenannte",
+      "english": "cosidetto"
+    },
+    {
+      "german": "Massnahmen",
+      "english": "misure"
+    },
+    {
+      "german": "zu vermeiden",
+      "english": "evitare"
     }
   ]
 }

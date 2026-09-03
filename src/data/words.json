@@ -29,6 +29,10 @@
       "english": "to commit"
     },
     {
+      "german": "zu pflichten",
+      "english": "to oblige"
+    },
+    {
       "german": "zu pflegen",
       "english": "to maintain"
     },
@@ -47,6 +51,14 @@
     {
       "german": "Sache",
       "english": "thing"
+    },
+    {
+      "german": "eng",
+      "english": "tight"
+    },
+    {
+      "german": "zu verurteilen",
+      "english": "to condemn"
     }
   ]
 }

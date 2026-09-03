@@ -15,6 +15,26 @@
     {
       "german": "Tat",
       "english": "act"
+    },
+    {
+      "german": "zu umsetzen",
+      "english": "to implement"
+    },
+    {
+      "german": "Beförderung",
+      "english": "promotion"
+    },
+    {
+      "german": "zu verpflichten",
+      "english": "to commit"
+    },
+    {
+      "german": "zu pflegen",
+      "english": "to maintain"
+    },
+    {
+      "german": "zu beauftragen",
+      "english": "to assign"
     }
   ]
 }

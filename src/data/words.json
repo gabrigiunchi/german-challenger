@@ -35,6 +35,18 @@
     {
       "german": "zu beauftragen",
       "english": "to assign"
+    },
+    {
+      "german": "zu ablehnen",
+      "english": "to reject"
+    },
+    {
+      "german": "Fläche",
+      "english": "area"
+    },
+    {
+      "german": "Sache",
+      "english": "thing"
     }
   ]
 }

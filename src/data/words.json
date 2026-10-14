@@ -1,26 +1,6 @@
 {
   "words": [
     {
-      "german": "Behörde",
-      "english": "authority"
-    },
-    {
-      "german": "Beamte",
-      "english": "official"
-    },
-    {
-      "german": "Abteilung",
-      "english": "department"
-    },
-    {
-      "german": "Tat",
-      "english": "act"
-    },
-    {
-      "german": "zu umsetzen",
-      "english": "to implement"
-    },
-    {
       "german": "Beförderung",
       "english": "promotion"
     },
@@ -53,48 +33,8 @@
       "english": "thing"
     },
     {
-      "german": "eng",
-      "english": "tight"
-    },
-    {
-      "german": "Schritt",
-      "english": "step"
-    },
-    {
-      "german": "Welle",
-      "english": "wave"
-    },
-    {
-      "german": "fad",
-      "english": "bland"
-    },
-    {
-      "german": "zu verurteilen",
-      "english": "to convict"
-    },
-    {
       "german": "zu erledigen",
       "english": "to accomplish"
-    },
-    {
-      "german": "erlebnis",
-      "english": "experience"
-    },
-    {
-      "german": "ergebnis",
-      "english": "result"
-    },
-    {
-      "german": "erfordelich",
-      "english": "necessary"
-    },
-    {
-      "german": "erhältlich",
-      "english": "available"
-    },
-    {
-      "german": "aufregend",
-      "english": "exciting"
     },
     {
       "german": "eindeutig",
@@ -115,6 +55,18 @@
     {
       "german": "zu verhindern",
       "english": "to prevent"
+    },
+    {
+      "german": "zu retten",
+      "english": "to rescue"
+    },
+    {
+      "german": "Zusage",
+      "english": "commitment"
+    },
+    {
+      "german": "zu einhalten",
+      "english": "to comply"
     }
   ]
 }
